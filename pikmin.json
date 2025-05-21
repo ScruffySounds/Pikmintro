@@ -1,0 +1,19 @@
+{
+    "id": "pikmin",
+    "name": "Pikmintro",
+    "author": ["Scruffy, YoDPC"],
+    "description": "A Pikmin-themed retexture for vanilla Balatro!",
+    "prefix": "pikmin",
+    "main_file": "pikmin.lua",
+    "priority": 0,
+    "badge_colour": "42ad68",
+    "badge_text_colour": "FCFCFC",
+    "display_name": "Pikmintro",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (*)",
+        "Lovely (*)",
+        "malverk"],
+    "conflicts": [],
+    "provides": []
+}
