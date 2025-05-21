@@ -1,6 +1,7 @@
 # Pikmintro
 A Pikmin-themed retexture mod for Balatro! Created by Scruffy and YoDPC
-
+![JokersPreviewNew](https://github.com/user-attachments/assets/8c83726d-2263-45c1-afb4-5cf91808a8c6)
+![TarotsPreview](https://github.com/user-attachments/assets/5d0cdfb2-d55f-44ae-967f-f7fc66a03208)
 Adds in custom pixel art for all Jokers, Tarot cards, Planet cards, Spectral cards, Vouchers, Booster Packs, Decks, Seals, most Blinds, and some Tags, all of which reference the Pikmin series! Also adds a set of Pikmin-character face cards, which can be accessed from Options -> Customize Deck. Special thanks to YoDPC for helping with the Joker pixel art!
 
 Requires [Steamodded](https://github.com/Steamodded/smods) and the latest commit of [Malverk](https://github.com/Eremel/Malverk). Once both are added to the requisite Mods folder in Balatro's app data (see Steamodded's installation), download the Pikmintro .zip file, extract the Pikmintro folder, and place it in the Mods folder as well. 
