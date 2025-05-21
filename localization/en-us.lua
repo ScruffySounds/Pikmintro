@@ -486,7 +486,7 @@ return {
                 name="Professional Noisemaker",
                 text={
                     "All {C:planet}Pikmin{} cards and",
-                    "{C:planet}Celestial Packs{} in",
+                    "{C:planet}Sprout Packs{} in",
                     "the shop are {C:attention}free",
                 },
                 unlock={
@@ -2020,7 +2020,7 @@ return {
                 },
             },
             p_arcana_jumbo={
-                name="Jumbo Arcana Pack",
+                name="Jumbo Dolphin Pack",
                 text={
                     "Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{C:tarot} Ship Part{} cards to",
@@ -2028,7 +2028,7 @@ return {
                 },
             },
             p_arcana_mega={
-                name="Mega Arcana Pack",
+                name="Mega Dolphin Pack",
                 text={
                     "Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{C:tarot} Ship Part{} cards to",
@@ -2036,7 +2036,7 @@ return {
                 },
             },
             p_arcana_normal={
-                name="Arcana Pack",
+                name="Dolphin Pack",
                 text={
                     "Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{C:tarot} Ship Part{} cards to",
@@ -2065,7 +2065,7 @@ return {
                 },
             },
             p_celestial_jumbo={
-                name="Jumbo Celestial Pack",
+                name="Jumbo Sprout Pack",
                 text={
                     "Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{C:planet} Pikmin{} cards to",
@@ -2073,7 +2073,7 @@ return {
                 },
             },
             p_celestial_mega={
-                name="Mega Celestial Pack",
+                name="Mega Sprout Pack",
                 text={
                     "Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{C:planet} Pikmin{} cards to",
@@ -2081,7 +2081,7 @@ return {
                 },
             },
             p_celestial_normal={
-                name="Celestial Pack",
+                name="Sprout Pack",
                 text={
                     "Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{C:planet} Pikmin{} cards to",
@@ -2628,7 +2628,7 @@ return {
                 name="Radar Tag",
                 text={
                     "Gives a free",
-                    "{C:tarot}Mega Arcana Pack",
+                    "{C:tarot}Mega Dolphin Pack",
                 },
             },
             tag_coupon={
@@ -2719,7 +2719,7 @@ return {
                 name="Onion Tag",
                 text={
                     "Gives a free",
-                    "{C:planet}Mega Celestial Pack",
+                    "{C:planet}Mega Sprout Pack",
                 },
             },
             tag_negative={
@@ -3119,7 +3119,7 @@ return {
                 unlock={
                     "Use a total of {C:attention}#1#",
                     "{C:planet}Pikmin{} cards from any",
-                    "{C:planet}Celestial Pack",
+                    "{C:planet}Sprout Pack",
                     "{C:inactive}(#2#)",
                 },
             },
@@ -3128,12 +3128,12 @@ return {
                 text={
                     "{C:spectral}Spectral{} cards may",
                     "appear in any of",
-                    "the {C:attention}Arcana Packs",
+                    "the {C:attention}Dolphin Packs",
                 },
                 unlock={
                     "Use a total of {C:attention}#1#",
                     "{C:tarot}Ship Part{} cards from any",
-                    "{C:tarot}Arcana Pack",
+                    "{C:tarot}Dolphin Pack",
                     "{C:inactive}(#2#)",
                 },
             },
@@ -3283,7 +3283,7 @@ return {
             v_telescope={
                 name="Olimar's Advice",
                 text={
-                    "{C:attention}Celestial Packs{} always",
+                    "{C:attention}Sprout Packs{} always",
                     "contain the {C:planet}Pikmin{}",
                     "card for your most",
                     "played {C:attention}poker hand",
@@ -3540,7 +3540,7 @@ return {
             k_also_applied="Also applied",
             k_ante="Ante",
             k_ante_cap="ANTE",
-            k_arcana_pack="Arcana Pack",
+            k_arcana_pack="Dolphin Pack",
             k_balanced="Balanced",
             k_banned_cards="Banned Cards",
             k_banned_tags="Banned Tags",
@@ -3551,7 +3551,7 @@ return {
             k_buffoon_pack="Buffoon Pack",
             k_cap_consumables="CONSUMABLES",
             k_card_stats="Card Stats",
-            k_celestial_pack="Celestial Pack",
+            k_celestial_pack="Sprout Pack",
             k_challenge_mode="Challenge Mode",
             k_challenges="Challenges",
             k_choose="Choose",
